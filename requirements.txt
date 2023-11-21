@@ -1,7 +1,14 @@
 python-dotenv
 google-generativeai
 langchain
-PyPDF2
+tiktoken
 faiss-cpu
+protobuf
+pymysql
+mysql-connector-python
+sentence-transformers
+torch
 streamlit
+langchain-experimental
+chromadb
 -e .
