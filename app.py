@@ -2,7 +2,7 @@ from src.llm_helper import get_few_shot_db_chain
 
 import streamlit as st
 
-st.title('Atliq T Shirts: Database Q&A ')
+st.title('T Shirts Shop: RetailChat SQL Engine :👕 ')
 
 question = st.text_input('Question: ')
 
